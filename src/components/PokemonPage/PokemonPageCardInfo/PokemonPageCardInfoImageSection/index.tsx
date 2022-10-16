@@ -1,0 +1,1 @@
+export { default, type PokemonPageCardInfoImageSectionProps } from './PokemonPageCardInfoImageSection';

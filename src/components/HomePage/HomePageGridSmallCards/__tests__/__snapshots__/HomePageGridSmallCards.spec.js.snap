@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePageGridSmallCards Guards when gets 0 elements 1`] = `
+<div>
+  <div>
+    <h3
+      class="sc-bcXHqe kiCupq"
+    >
+      There' s not pokemons with that name, let' s catch them ;)
+    </h3>
+  </div>
+</div>
+`;
+
+exports[`HomePageGridSmallCards Renders correctly 1`] = `
+<div>
+  <div
+    class="sc-dkrFOg kieAM"
+  >
+    <div
+      class="sc-gswNZR dgqJhH"
+    >
+      Pikachu
+    </div>
+  </div>
+</div>
+`;
