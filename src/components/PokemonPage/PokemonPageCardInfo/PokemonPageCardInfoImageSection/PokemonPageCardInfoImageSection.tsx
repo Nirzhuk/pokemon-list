@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { useRouter } from 'next/router';
 import { ArrowLeft as ArrowLeftIcon } from "react-feather";
 import React from 'react'

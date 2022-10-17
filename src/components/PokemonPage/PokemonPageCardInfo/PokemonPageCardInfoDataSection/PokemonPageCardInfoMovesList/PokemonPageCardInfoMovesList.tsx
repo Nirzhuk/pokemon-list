@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { Move } from '../../../../../modules/pokemons/types';
 import PokemonPageCardInfoMovesListItem from './PokemonPageCardInfoMovesListItem';
 
-interface PokemonPageCardInfoMovesListProps {
+export interface PokemonPageCardInfoMovesListProps {
     initialMoves: Move[]
 }
 

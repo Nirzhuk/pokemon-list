@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import { Form, Pokemon } from '../../../modules/pokemons/types'
 import PokemonPageCardInfoImageSection from './PokemonPageCardInfoImageSection';
-import PokemonPageCardInfoDataSection from './PokemonPageCardInfoDataSection/PokemonPageCardInfoDataSection';
+import PokemonPageCardInfoDataSection from './PokemonPageCardInfoDataSection';
 
 export interface PokemonPageCardInfoProps {
   data: Pokemon
